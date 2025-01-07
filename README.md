@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there, I'm Kevin Dubon! 👋
 
-<!--
-**Dubonk/Dubonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 **Frontend Developer** | 🛠️ **React Enthusiast** | 🌍 **Lifelong Learner**
 
-Here are some ideas to get you started:
+🔍 I'm currently seeking opportunities as a Junior Frontend Developer!  
+🌟 Passionate about creating responsive, user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 My Tech Stack:
+- **Languages**: JavaScript (ES6+), HTML5, CSS3
+- **Frameworks/Libraries**: React, TailwindCSS
+- **Tools**: Git, VScode, Netlify
+- **Learning**: Next.js, TypeScript
+
+---
+
+### 🔥 Featured Projects:
+- 🛒 [Dubonk Shopping Site](https://dubonkshoppingsite.netlify.app/): A React-based e-commerce site featuring dynamic routing and cart functionality.
+- 🌦️ [Weather App](https://dubonk.github.io/WeatherApp/): Fetches real-time weather data using APIs.
+- 🧩 [Memory Game](https://dubonkmemorygame.netlify.app/): A fun, interactive React-based game.
+
+---
+
+### 📚 What I'm Learning:
+- 🚀 Advanced React concepts like state management with Redux and Context API.
+- 🎨 Modern styling techniques using TailwindCSS and animations.
+
+---
