@@ -16,7 +16,7 @@
 ---
 
 ### 🔥 Featured Projects:
-- 🛒 [Dubonk Shopping Site](https://dubonkshoppingsite.netlify.app/): A React-based e-commerce site featuring dynamic routing and cart functionality.
+- 🛒 [Shopping Site](https://dubonkshoppingsite.netlify.app/): A React-based e-commerce site featuring dynamic routing and cart functionality.
 - 🌦️ [Weather App](https://dubonk.github.io/WeatherApp/): Fetches real-time weather data using APIs.
 - 🧩 [Memory Game](https://dubonkmemorygame.netlify.app/): A fun, interactive React-based game.
 
