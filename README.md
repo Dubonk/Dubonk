@@ -13,8 +13,8 @@ I'm a self-taught Web Developer passionate about creating responsive, user-frien
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 
-- **Tools**: Git, VS Code, Netlify
-- **Currently Learning**: Redux, Next.js, and TypeScript
+- **Tools**: Git, VScode, Netlify
+- **Currently Learning**: Redux, Next.js, NodeJS, and TypeScript
 
 ---
 
@@ -23,7 +23,7 @@ Here are a few projects that I'm particularly proud of:
 
 1. **🛒 Shopping Site**  
    *A React-based e-commerce site with dynamic routing and cart functionality.*  
-   [Live Demo](https://dubonkshoppingsite.netlify.app/) | [Source Code](https://github.com/Dubonk/shopping-cart)
+   [Live Demo](https://dubonkshoppingsite.netlify.app/) | [Source Code](https://github.com/Dubonk/Shopping-Cart)
 
 2. **🌦️ Weather App**  
    *Real-time weather app using APIs for data fetching.*  
@@ -31,7 +31,7 @@ Here are a few projects that I'm particularly proud of:
 
 3. **🧩 Memory Game**  
    *A fun, interactive memory card game built with React.*  
-   [Live Demo](https://dubonkmemorygame.netlify.app/) | [Source Code](https://github.com/Dubonk/Memory-Game)
+   [Live Demo](https://dubonkmemorygame.netlify.app/) | [Source Code](https://github.com/Dubonk/Memory-Card)
 
 ---
 
